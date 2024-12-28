@@ -7,3 +7,4 @@
 <!-- to add file command :- git add <file name> -->
 <!-- git add . :- to add all files -->
 <!-- to commite added files we use :- git commit -m "comment"-->
+<!-- we use:- git push origin main {to upload local repo content to remote repo} -->
