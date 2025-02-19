@@ -1,3 +1,34 @@
+# LeetCode Solutions Repository
+
+This repository contains my solutions to various LeetCode problems. I am actively solving problems to improve my problem-solving skills and coding efficiency.
+
+## 📌 Categories
+The problems are categorized into different folders based on the topic:
+- **Arrays**
+- **Dynamic Programming**
+- **Graphs**
+- **Linked List**
+- **SQL**
+- **Miscellaneous**
+
+## 🚀 How to Use
+You can navigate through the folders to find solutions in different programming languages.  
+Each solution file is named based on the problem title.
+
+## ✏️ Solution Format
+Each solution includes:
+- Problem statement (brief description or link to LeetCode problem)
+- Approach explanation (if applicable)
+- Optimized code with comments
+
+## 🔗 LeetCode Profile
+[My LeetCode Profile](https://github.com/theofficialsunil) *(Update this with your actual LeetCode profile link)*
+
+## ⭐ Contributions & Feedback
+Feel free to raise issues, suggest improvements, or contribute better solutions!
+
+
+
 # LeetCodePractice
 <!-- Untracked :- new file that github doesn't yet track -->
 <!-- Modified :- changed -->
