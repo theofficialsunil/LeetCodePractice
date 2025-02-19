@@ -12,7 +12,7 @@ The problems are categorized into different folders based on the topic:
 - **Miscellaneous**
 
 ## 🚀 How to Use
-You can navigate through the folders to find solutions in different programming languages.  
+You can navigate through the folders to find solutions in C++ or java.  
 Each solution file is named based on the problem title.
 
 ## ✏️ Solution Format
@@ -22,14 +22,19 @@ Each solution includes:
 - Optimized code with comments
 
 ## 🔗 LeetCode Profile
-[My LeetCode Profile](https://github.com/theofficialsunil) *(Update this with your actual LeetCode profile link)*
+[My LeetCode Profile](https://github.com/theofficialsunil)
 
 ## ⭐ Contributions & Feedback
 Feel free to raise issues, suggest improvements, or contribute better solutions!
 
 
 
-# LeetCodePractice
+
+
+
+
+
+
 <!-- Untracked :- new file that github doesn't yet track -->
 <!-- Modified :- changed -->
 <!-- stagged :- file is ready to committed -->
