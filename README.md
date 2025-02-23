@@ -22,7 +22,7 @@ Each solution includes:
 - Optimized code with comments
 
 ## 🔗 LeetCode Profile
-[My LeetCode Profile](https://github.com/theofficialsunil)
+[My LeetCode Profile](https://leetcode.com/u/TechSunil_Nagar/)
 
 ## ⭐ Contributions & Feedback
 Feel free to raise issues, suggest improvements, or contribute better solutions!
